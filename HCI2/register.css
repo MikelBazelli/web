@@ -1,0 +1,13 @@
+#registerPage{
+    font-size: 18px;
+    width: 130px;
+    background-color: #1bbc1b;  
+    color: white;
+    
+    
+}
+
+
+#registerPage:hover{
+    background-color: #129712;  
+}

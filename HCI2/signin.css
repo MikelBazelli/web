@@ -1,0 +1,12 @@
+.btn2{
+    width: 90px;
+}
+#signbtn{
+    background-color: #1bbc1b;  
+    color: white;
+    float: left;
+}
+#signbtn:hover{
+    background-color: #129712;  
+  
+}
